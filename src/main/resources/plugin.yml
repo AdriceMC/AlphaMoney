@@ -1,0 +1,7 @@
+name: AlphaMoney
+version: '${project.version}'
+main: com.github.adricemc.alphamoney.AlphaMoney
+authors: [AdriceMC, Reyanaa]
+api-version: 1.19
+description: A complete economy manager for your Minecraft server!
+website: https://github.com/AdriceMC/AlphaMoney
